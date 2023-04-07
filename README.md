@@ -1,1 +1,1 @@
-I am Hunter Keating, a Computer Science major at Utah Valley University. I am currently looking to improve my skills my finding internships in the field.
+I am Hunter Keating, a matriculated Computer Science major at The University of Utah. I am currently looking to improve my skills by finding internships in the field.
