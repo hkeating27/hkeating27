@@ -1,1 +1,3 @@
-I am Hunter Keating, a matriculated Computer Science major at The University of Utah. I am currently looking to improve my skills by finding internships in the field.
+Hardworking and skilled Computer Science Junior proficient in numerous programming skills, algorithm
+design, and team-oriented production. Eager to gain experience and learn from senior professionals while
+contributing with practiced skills
